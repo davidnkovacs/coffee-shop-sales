@@ -68,3 +68,8 @@ The dataset contains over 149,000 rows of transaction data, including:
 1. Download the `.xlsx` file from this repository.
 2. Open using **Microsoft Excel**.
 3. Use the interactive slicers on the left-hand panel to explore the data.
+
+---
+
+**Project Completed by:** David Kovacs
+**Guided by:** Maven Analytics
